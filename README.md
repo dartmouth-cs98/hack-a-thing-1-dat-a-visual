@@ -16,4 +16,18 @@ Ok turns out this was **not as easy as I thought it would be**. I ended up follo
 
 ![fail](./sad_story.PNG)
 
+#### Semi-Success Story Told by Shirley - Plotnine & Panda
+
+I could install pandas and plotnine using pip. I followed the tutorial using a wine dataset, and found two other datasets to visualize- McDonald's menu and restaurant ratings. 
+
+I tried using simple graphs and more fancy looking graphs with themes. However I realized quickly that this was not going to become any more interesting unless I had access to some cool datasets which was more of a finding problem than a CS problem.
+
+![shirley1](./shirley1.png)
+
+![shirley2](./shirley2.png)
+
+![shirley3](./shirley3.png)
+
+![shirley4](./shirley4.png)
+
 ### Unity 
