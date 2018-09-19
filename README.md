@@ -31,8 +31,20 @@ I tried using simple graphs and more fancy looking graphs with themes. However I
 ![shirley4](./shirley4.png)
 
 ### Unity 
-####Zombie Game
+#### Zombie Game - Shirley
+
+This game is made from a tutorial on Unity.com
+I followed the ten phases: environment set up, setting characters, setting camera, creating two enemies, creating UI component HUD, adding player health, ability to damage health, score points, randomly spawn multiple enemies, and adding game over video
+The goal of the game is to shoot the zombunny and zombears that come attacking you!
 
 ![game](./zom.jpg)
 
+Zombie attack!
+
 ![over](./over.jpg)
+
+Game over video screenshot
+
+![shoot](./shoot.jpg)
+
+shooting the zombies/ dust particles
