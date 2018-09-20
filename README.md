@@ -55,17 +55,17 @@ I attempted to make a barista training scene where the user can pick up a cup an
 
 I looked into the standard assets for water and liquid, but found that they were mainly for landscaping and scenic water, but not for interacting with it. I found a library called Fluvio (free version) that creates a fluid particle system. My objective was to mirror a barista filling up a cup with coffee.
 
-![birdseyeview](./stephen1.png)
+![birdseyeview](./stephen1.PNG)
 
 Turns out that there is a documented bug with Fluvio where fluid doesn't correctly interact with mesh colliders. This made me sad, as I wanted to fill up a hollow container (a cup). Without a mesh collider for the shape of the cup, I hacked together an open box of box colliders (leaving the top open).
 
-![holycollider](./stephen2.png)
+![holycollider](./stephen2.PNG)
 
 Here's an in-game view
-![views](./stephen3.png)
+![views](./stephen3.PNG)
 
 Here's some flaky-looking liquid falling into the cup...and through it, into the void.
-![ahhhh](./stephen4.png)
+![ahhhh](./stephen4.PNG)
 
 My takeways: VR projects are hard because they require piecing together many different libraries and assets. Sometimes the behaviors and interactions between them do not go as expected. Still, it was a lot of fun to work with various VR technologies and go shopping for free cup assets in the Unity store.
 
