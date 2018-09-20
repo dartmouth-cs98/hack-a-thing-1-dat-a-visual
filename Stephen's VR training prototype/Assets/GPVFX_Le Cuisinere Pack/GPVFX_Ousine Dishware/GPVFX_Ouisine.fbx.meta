@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: dd9fad4181826420c92d21c7707c7108
+timeCreated: 1498169177
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BOWL
+    100002: Camera
+    100004: FORK_Salad
+    100006: GLASS_Red Wine
+    100008: GLASS_Tequila
+    100010: GLASS_Water
+    100012: GLASS_White Wine
+    100014: //RootNode
+    100016: OUI_FORK_Dessert
+    100018: OUI_FORK_Dinner
+    100020: OUI_FORK_Oyster
+    100022: OUI_Handle
+    100024: OUI_KNIFE_Butter
+    100026: OUI_KNIFE_Dinner
+    100028: OUI_Linen Napkin
+    100030: OUI_Linen Ring
+    100032: OUI_SPOON_Dessert
+    100034: OUI_SPOON_Soup
+    100036: PLATE_Bread and Butter
+    100038: PLATE_Dinner
+    100040: PLATE_Salad
+    100042: OUI_Handle.001
+    100044: OUI_Handle.002
+    100046: OUI_Handle.003
+    100048: OUI_Handle.004
+    100050: OUI_Handle.005
+    100052: OUI_Handle.006
+    100054: OUI_Handle.007
+    100056: node_id10
+    100058: node_id12
+    100060: node_id14
+    100062: node_id16
+    100064: node_id18
+    100066: node_id20
+    100068: node_id22
+    100070: node_id24
+    100072: node_id24 1
+    100074: node_id27
+    100076: node_id27 1
+    100078: node_id30
+    100080: node_id32
+    100082: node_id34
+    100084: node_id34 1
+    100086: node_id37
+    100088: node_id37 1
+    100090: node_id4
+    100092: node_id40
+    100094: node_id42
+    100096: node_id44
+    100098: node_id46
+    100100: node_id48
+    100102: node_id50
+    100104: node_id52
+    100106: node_id54
+    100108: node_id56
+    100110: node_id58
+    100112: node_id6
+    100114: node_id60
+    100116: node_id61
+    100118: node_id62
+    100120: node_id63
+    100122: node_id64
+    100124: node_id65
+    100126: node_id8
+    400000: BOWL
+    400002: Camera
+    400004: FORK_Salad
+    400006: GLASS_Red Wine
+    400008: GLASS_Tequila
+    400010: GLASS_Water
+    400012: GLASS_White Wine
+    400014: //RootNode
+    400016: OUI_FORK_Dessert
+    400018: OUI_FORK_Dinner
+    400020: OUI_FORK_Oyster
+    400022: OUI_Handle
+    400024: OUI_KNIFE_Butter
+    400026: OUI_KNIFE_Dinner
+    400028: OUI_Linen Napkin
+    400030: OUI_Linen Ring
+    400032: OUI_SPOON_Dessert
+    400034: OUI_SPOON_Soup
+    400036: PLATE_Bread and Butter
+    400038: PLATE_Dinner
+    400040: PLATE_Salad
+    400042: OUI_Handle.001
+    400044: OUI_Handle.002
+    400046: OUI_Handle.003
+    400048: OUI_Handle.004
+    400050: OUI_Handle.005
+    400052: OUI_Handle.006
+    400054: OUI_Handle.007
+    400056: node_id10
+    400058: node_id12
+    400060: node_id14
+    400062: node_id16
+    400064: node_id18
+    400066: node_id20
+    400068: node_id22
+    400070: node_id24
+    400072: node_id24 1
+    400074: node_id27
+    400076: node_id27 1
+    400078: node_id30
+    400080: node_id32
+    400082: node_id34
+    400084: node_id34 1
+    400086: node_id37
+    400088: node_id37 1
+    400090: node_id4
+    400092: node_id40
+    400094: node_id42
+    400096: node_id44
+    400098: node_id46
+    400100: node_id48
+    400102: node_id50
+    400104: node_id52
+    400106: node_id54
+    400108: node_id56
+    400110: node_id58
+    400112: node_id6
+    400114: node_id60
+    400116: node_id61
+    400118: node_id62
+    400120: node_id63
+    400122: node_id64
+    400124: node_id65
+    400126: node_id8
+    2300000: BOWL
+    2300002: FORK_Salad
+    2300004: GLASS_Red Wine
+    2300006: GLASS_Tequila
+    2300008: GLASS_Water
+    2300010: GLASS_White Wine
+    2300012: OUI_FORK_Dessert
+    2300014: OUI_FORK_Dinner
+    2300016: OUI_FORK_Oyster
+    2300018: OUI_Handle
+    2300020: OUI_KNIFE_Butter
+    2300022: OUI_KNIFE_Dinner
+    2300024: OUI_Linen Napkin
+    2300026: OUI_Linen Ring
+    2300028: OUI_SPOON_Dessert
+    2300030: OUI_SPOON_Soup
+    2300032: PLATE_Bread and Butter
+    2300034: PLATE_Dinner
+    2300036: PLATE_Salad
+    2300038: OUI_Handle.001
+    2300040: OUI_Handle.002
+    2300042: OUI_Handle.003
+    2300044: OUI_Handle.004
+    2300046: OUI_Handle.005
+    2300048: OUI_Handle.006
+    2300050: OUI_Handle.007
+    2300052: node_id10
+    2300054: node_id12
+    2300056: node_id14
+    2300058: node_id16
+    2300060: node_id18
+    2300062: node_id20
+    2300064: node_id22
+    2300066: node_id24
+    2300068: node_id24 1
+    2300070: node_id27
+    2300072: node_id27 1
+    2300074: node_id30
+    2300076: node_id32
+    2300078: node_id34
+    2300080: node_id34 1
+    2300082: node_id37
+    2300084: node_id37 1
+    2300086: node_id4
+    2300088: node_id40
+    2300090: node_id42
+    2300092: node_id44
+    2300094: node_id46
+    2300096: node_id48
+    2300098: node_id50
+    2300100: node_id52
+    2300102: node_id54
+    2300104: node_id56
+    2300106: node_id58
+    2300108: node_id6
+    2300110: node_id8
+    3300000: BOWL
+    3300002: FORK_Salad
+    3300004: GLASS_Red Wine
+    3300006: GLASS_Tequila
+    3300008: GLASS_Water
+    3300010: GLASS_White Wine
+    3300012: OUI_FORK_Dessert
+    3300014: OUI_FORK_Dinner
+    3300016: OUI_FORK_Oyster
+    3300018: OUI_Handle
+    3300020: OUI_KNIFE_Butter
+    3300022: OUI_KNIFE_Dinner
+    3300024: OUI_Linen Napkin
+    3300026: OUI_Linen Ring
+    3300028: OUI_SPOON_Dessert
+    3300030: OUI_SPOON_Soup
+    3300032: PLATE_Bread and Butter
+    3300034: PLATE_Dinner
+    3300036: PLATE_Salad
+    3300038: OUI_Handle.001
+    3300040: OUI_Handle.002
+    3300042: OUI_Handle.003
+    3300044: OUI_Handle.004
+    3300046: OUI_Handle.005
+    3300048: OUI_Handle.006
+    3300050: OUI_Handle.007
+    3300052: node_id10
+    3300054: node_id12
+    3300056: node_id14
+    3300058: node_id16
+    3300060: node_id18
+    3300062: node_id20
+    3300064: node_id22
+    3300066: node_id24
+    3300068: node_id24 1
+    3300070: node_id27
+    3300072: node_id27 1
+    3300074: node_id30
+    3300076: node_id32
+    3300078: node_id34
+    3300080: node_id34 1
+    3300082: node_id37
+    3300084: node_id37 1
+    3300086: node_id4
+    3300088: node_id40
+    3300090: node_id42
+    3300092: node_id44
+    3300094: node_id46
+    3300096: node_id48
+    3300098: node_id50
+    3300100: node_id52
+    3300102: node_id54
+    3300104: node_id56
+    3300106: node_id58
+    3300108: node_id6
+    3300110: node_id8
+    4300000: OUI_Linen Ring
+    4300002: OUI_Linen Napkin
+    4300004: OUI_Handle
+    4300006: OUI_FORK_Dessert
+    4300008: OUI_SPOON_Dessert
+    4300010: GLASS_Red Wine
+    4300012: GLASS_Tequila
+    4300014: GLASS_Water
+    4300016: GLASS_White Wine
+    4300018: PLATE_Salad
+    4300020: BOWL
+    4300022: OUI_KNIFE_Butter
+    4300024: PLATE_Bread and Butter
+    4300026: PLATE_Dinner
+    4300028: OUI_SPOON_Soup
+    4300030: OUI_FORK_Oyster
+    4300032: OUI_KNIFE_Dinner
+    4300034: FORK_Salad
+    4300036: OUI_FORK_Dinner
+    4300038: node_id4
+    4300040: node_id6
+    4300042: node_id8
+    4300044: node_id10
+    4300046: node_id12
+    4300048: node_id14
+    4300050: node_id16
+    4300052: node_id18
+    4300054: node_id20
+    4300056: node_id22
+    4300058: node_id24
+    4300060: node_id24
+    4300062: node_id27
+    4300064: node_id27
+    4300066: node_id30
+    4300068: node_id32
+    4300070: node_id34
+    4300072: node_id34
+    4300074: node_id37
+    4300076: node_id37
+    4300078: node_id40
+    4300080: node_id42
+    4300082: node_id44
+    4300084: node_id46
+    4300086: node_id48
+    4300088: node_id50
+    4300090: node_id52
+    4300092: node_id54
+    4300094: node_id56
+    4300096: node_id58
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_137
+    second: {fileID: 2100000, guid: 5e1be4380b52cb54796fe6e47ee4139b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_139
+    second: {fileID: 2100000, guid: 51a334903e1ff7c4dac43f2b2c5c9ff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_141
+    second: {fileID: 2100000, guid: e4a36a9cef90cb445ba9f39539654fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_143
+    second: {fileID: 2100000, guid: 646e931a9a59d984aaafb5fcc8e72f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_61
+    second: {fileID: 2100000, guid: d6589c7e53c2c194eb55a5273c68c3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_62
+    second: {fileID: 2100000, guid: c4f4659ddc508a646babf10ff5a7ce10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_63
+    second: {fileID: 2100000, guid: fde1bfde51341e04ba13f14d4fede586, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_64
+    second: {fileID: 2100000, guid: 25ac88c6ff13ec944a6904da8693e9c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_65
+    second: {fileID: 2100000, guid: d4f694ec27fca3f4cbaebfaaf22e0b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_66
+    second: {fileID: 2100000, guid: 1f4b345a58ee95b4da65ffc82c9b7411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_71
+    second: {fileID: 2100000, guid: 43e244d8cf7594b49adbbe9561c814c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_72
+    second: {fileID: 2100000, guid: d6296b52ca7732a448afef5cb396abf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_73
+    second: {fileID: 2100000, guid: 2d0ae652ac0c0144782ae29ea4ff77d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_74
+    second: {fileID: 2100000, guid: 7301a3a2a128b704fb0e82806ff33fb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_75
+    second: {fileID: 2100000, guid: 2ff231b0e0420af4d99fb913474193ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_76
+    second: {fileID: 2100000, guid: 42939db802e347b4381a25866004c8c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_77
+    second: {fileID: 2100000, guid: 405d9eb19bebadc46aaac12280263499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_78
+    second: {fileID: 2100000, guid: f8fa310cb56b4da45a789e9d20c107fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_79
+    second: {fileID: 2100000, guid: 38478ba9dd1847f4e84cf27edcebcb7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_80
+    second: {fileID: 2100000, guid: f1e4e1cb8c1c91549a7a03e02800252a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_81
+    second: {fileID: 2100000, guid: 491f0d9742d13f441983bcd27b0431d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_82
+    second: {fileID: 2100000, guid: 361de0c41b07671409d914488d045fe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_83
+    second: {fileID: 2100000, guid: 8c126d8b276899e4995aeb188c8e9296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_84
+    second: {fileID: 2100000, guid: c2f7894f06dbea84db3b41d538360b13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_85
+    second: {fileID: 2100000, guid: 96f4fcec9c8431e449a105872a12a3bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_86
+    second: {fileID: 2100000, guid: 40385fd06c7482646b65f6ebc1e708ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_87
+    second: {fileID: 2100000, guid: 05bf46c24b0897c4596baac48212629c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_88
+    second: {fileID: 2100000, guid: 2d2fe071a8fbade4090370a8ed43ce07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_89
+    second: {fileID: 2100000, guid: 2098aeaab43e93c45b21fe08fdb05e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_90
+    second: {fileID: 2100000, guid: 42afac11fe60d994eaf6ae4c00f22c70, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

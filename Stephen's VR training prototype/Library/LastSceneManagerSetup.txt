@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Boba_Shop.unity
+  isLoaded: 1
+  isActive: 1
